@@ -6,6 +6,14 @@ My name is **Muhammad Reinaldy Hermawan**
 - 🌱 I’m currently learning Mobile Development especially with Kotlin and Flutter
 - 📫 How to reach me: aldyjonkunimen@gmail.com
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/aldyhermawan1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aldyhermawan1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aldyhermawan1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **aldyhermawan1/aldyhermawan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
