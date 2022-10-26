@@ -2,6 +2,10 @@
 
 My name is **Muhammad Reinaldy Hermawan**
 
+- 🔭 I’m currently working as a Reviewer at Dicoding
+- 🌱 I’m currently learning Mobile Development especially with Kotlin and Flutter
+- 📫 How to reach me: aldyjonkunimen@gmail.com
+
 <!--
 **aldyhermawan1/aldyhermawan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
