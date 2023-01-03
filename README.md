@@ -2,7 +2,8 @@
 
 My name is **Muhammad Reinaldy Hermawan**
 
-- 🔭 I’m currently working as a Reviewer at Dicoding
+- 🔭 I’m currently working as a Mobile Engineer at Nusantara Beta Studio
+- ⭐ I also working as an External Code Reviewer at Dicoding Indonesia
 - 🌱 I’m currently learning Mobile Development especially with Kotlin and Flutter
 - 📫 How to reach me: aldyjonkunimen@gmail.com
 
